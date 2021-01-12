@@ -1,9 +1,5 @@
-### Hi,
+- Finished Lambda School's Full Stack Development program
 
-- I recently finished Lambda School's Full Stack Development program
+- Projects exhibit learning of HTML/CSS, JS, React, Node, etc.
 
-- My projects exhibit my learning of HTML/CSS, JS, React, Node and more
-
-- How to reach me: david.m.molinari@gmail.com 
-
-Thanks for stopping by!
+- To get in contact: david.m.molinari@gmail.com 
