@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi,
 
 - I recently finished Lambda School's Full Stack Development program
 
