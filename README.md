@@ -1,4 +1,4 @@
-Completed Lambda School's Full Stack Development program
+Software engineer seeking remote position
 
 Projects exhibit learning of HTML/CSS, JS, React, Node, and more
 
