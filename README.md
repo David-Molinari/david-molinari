@@ -1,4 +1,4 @@
-Software engineer seeking remote position
+Software engineer seeking a position
 
 Projects exhibit learning of HTML/CSS, JS, React, Node, and more
 
