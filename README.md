@@ -1,4 +1,4 @@
-Software engineer seeking a position
+Software engineer seeking a full-time position
 
 Projects exhibit learning of HTML/CSS, JS, React, Node, and more
 
