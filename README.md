@@ -1,4 +1,4 @@
-Software Engineer for Curriculum Associates (curriculumassociates.com)
+Software Engineer for Curriculum Associates
 
 Projects exhibit HTML/CSS, JS/TS, React, Node, and more
 
