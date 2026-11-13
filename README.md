@@ -4,4 +4,4 @@ Software Engineer III at Curriculum Associates. I build full-stack product softw
 
 - LinkedIn: [david-m-molinari](https://www.linkedin.com/in/david-m-molinari)
 
-Most of my work lives in private repositories at work. The forks below are learning projects from 2020-21.
+Most of my work lives in private repositories.
